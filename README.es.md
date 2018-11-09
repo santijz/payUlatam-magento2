@@ -32,5 +32,3 @@ composer require imagina/magento2-payulatam
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
 ```
-
-Mas información:  https://www.imaginacolombia.com
