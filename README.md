@@ -1,4 +1,4 @@
-# Imagina Magento 2 PayuLatam Module
+# PayuLatam Module for Magento 2
 
 *Read this in other languages: [Español](README.es.md),[English](README.md)
 
