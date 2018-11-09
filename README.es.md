@@ -1,4 +1,4 @@
-# Modulo de Pago Imagina Magento 2 para PayuLatam
+# Modulo de Pago PayuLatam para Magento 2
 
 *Otros idiomas del Readme: [Español](README.es.md),[English](README.md)
 
